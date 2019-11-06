@@ -1,3 +1,11 @@
+ /******************************************************
+ *String class implementation in CPP
+ *
+ *By :- Naveenkumar Bheemanapalli.
+ *
+ *********************************************************/
+
+
 #include<iostream>
 #include<cstring>
 #include "string.h"
